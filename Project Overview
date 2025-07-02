@@ -1,3 +1,9 @@
 The Peguin_Size_ML project is a Python-based machine learning application developed in Visual Studio Code. 
 It leverages the Peguin_size dataset sourced from Kaggle to analyze and predict the size characteristics of penguins.
 The project includes data preprocessing, model training, evaluation, and visualization components to provide insights into penguin size prediction.
+Data Handling
+
+The Kaggle “Peguin_size” dataset is loaded and processed correctly, with clear steps for data cleaning and preparation.
+Missing data and outliers are handled appropriately to improve model robustness.
+Feature engineering or selection techniques are applied and documented.
+
